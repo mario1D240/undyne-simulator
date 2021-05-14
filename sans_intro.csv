@@ -1,0 +1,8 @@
+0,CombatzoneResizeinstant,241,226,406,391,,,, 
+0,HeartTeleport,320,304	
+0,SetMaxHp,56,,,,,
+0,HeartMode,5,,,,,,,
+0,CombatzoneResizeinstant,241,226,406,391,,,,,,
+0,SansText,You're gonna have         to try a little harder than           that.,,,,,,,
+0,Sound,mus_zz_megalovania,,,,,,
+0,EndAttack,,,,,,,,
