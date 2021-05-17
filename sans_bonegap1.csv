@@ -1,6 +1,7 @@
 0,CombatzoneResizeinstant,241,226,406,391,,,, 
 0,HeartTeleport,320,304,,,,
 0,HeartMode,5,,,,,,,
-0,BoneBulletV,1,110,,
 0,BoneBulletV,1,120,,
+0,BoneBulletV,1,160,,
+0,BoneBulletV,1,200
 6.4,EndAttack,,,,,,
