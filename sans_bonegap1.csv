@@ -1,7 +1,8 @@
 0,CombatZoneResize,260,190,390,310,,,
-0,HeartTeleport,325,258,,,,
+0,HeartTeleport,325,265,,,,
 0,DamagePlayer,-58,,,,,,,,,
 0,HeartMode,5,,,,,,,
 0,BoneBulletV,1,100,,
-0,BoneBulletV,1,130,,
+0,BoneBulletV,1,140,,
+0,BoneBulletV,1,180
 6.4,EndAttack,,,,,,
