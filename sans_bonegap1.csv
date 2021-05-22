@@ -3,6 +3,7 @@
 0,DamagePlayer,-58,,,,,,,,,
 0,HeartMode,5,,,,,,,
 0,BoneBulletV,1,94,,
-0.5,BoneBulletV,1,94,,
+0.6,BoneBulletV,1,94,,
 0,BoneBulletV,1,94,,
-
+0,BoneBulletH,2,120,,
+0.2,BoneBulletV,3,120,,
