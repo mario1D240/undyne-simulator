@@ -1,4 +1,4 @@
-0,CombatZoneResize,280,210,370,290,,,
+0,CombatZoneResizeInstant,280,210,370,290,,,
 0,HeartTeleport,325,225,,,,
 0,DamagePlayer,-74,,,,,,,,,
 0,HeartMode,5,,,,,,,
