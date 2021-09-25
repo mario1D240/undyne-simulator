@@ -1,6 +1,6 @@
 0,SetMaxHp,56,,,,,
 0,HeartMode,5,,,,,,,
-0,CombatZoneResize,280,310,410,290,,,
+0,CombatZoneResize,280,210,410,290,,,
 0,HeartTeleport,325,250,,,,
 0,SansText,You're gonna have         to try a little harder than           that.,,,,,,,
 0,Sound,mus_zz_megalovania,,,,,,
